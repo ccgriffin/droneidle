@@ -1,0 +1,4 @@
+baseURL = "http://droneidle.com/"
+languageCode = "en-us"
+title = "Drone Idle"
+theme = "newsroom"
